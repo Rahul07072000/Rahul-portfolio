@@ -1,0 +1,47 @@
+*{
+    padding: 0;
+    margin: 0;
+    color: white;
+    
+}
+#navbar{
+    height: 50px;
+    background-color:#0f1111;
+    position: fixed;
+    width: 100%; 
+}
+button{
+    background-color: #f08804;
+}
+#logo{
+    color: rgb(173, 59, 59);
+    font-size: 35px;
+}
+a{
+    margin-right: 200px;
+    font-size: 20px;
+    text-decoration: none;
+}
+#content{
+    height: 200px;
+}
+footer{
+    background-color:rgb(146, 146, 220);
+   text-align: center;
+   height: 200px;
+}
+input{
+    color: black;
+}
+h1{
+    font-size: 25px;
+    color: black;
+    text-align: center;
+}
+.social{
+    color: white;
+}
+body{
+    background-image: url("Rahul01.jpg");
+    background-size: cover;
+}
